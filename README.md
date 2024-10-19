@@ -1,3 +1,7 @@
+# Run Project 
+>>npm install
+>>npm run dev
+
 # ShoppyGlobe E-commerce Application
 
 ShoppyGlobe is a simple and responsive e-commerce application built with React, Redux, and Tailwind CSS. The application allows users to browse products, view details, add items to the cart, and manage their shopping experience seamlessly.
