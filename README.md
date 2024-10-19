@@ -1,5 +1,6 @@
 # Run Project 
 >>npm install
+
 >>npm run dev
 
 # ShoppyGlobe E-commerce Application
